@@ -134,8 +134,9 @@ brainModel.predict(X_n1_1)
 
 
 ### New Sample Data Prediction
+<img width="797" alt="Screenshot 2023-08-21 at 11 37 13 AM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/0ac2f902-40b8-4e30-80b7-e770258fadcc">
 
-<img width="572" alt="Screenshot 2023-08-18 at 2 33 26 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/5a4a083b-c306-4f84-a406-70d8c7c81fd1">
+
 
 
 ## RESULT
