@@ -117,24 +117,28 @@ X_n1_1 = Scaler.transform(X_n1)
 brainModel.predict(X_n1_1)
 ~~~
 ## Dataset Information
-<img width="225" alt="Screenshot 2023-08-18 at 2 30 13 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/0ecf1faf-1232-40fb-a352-7225cda08237">
+<img width="209" alt="Screenshot 2023-08-21 at 10 42 06 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/30b28dc8-60b0-4e24-b873-6baa4d38cf37">
+
 
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-<img width="583" alt="Screenshot 2023-08-18 at 2 32 16 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/81689e76-e231-43ab-a96e-d533960fc33a">
+
+<img width="578" alt="Screenshot 2023-08-21 at 10 42 32 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/59b449b8-801a-45e2-bec2-2162d0996d62">
 
 
 
 ### Test Data Root Mean Squared Error
-<img width="660" alt="Screenshot 2023-08-18 at 2 33 06 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/dbf60744-5f37-49d6-82c6-a85945c96e1f">
+<img width="578" alt="Screenshot 2023-08-21 at 10 43 15 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/a2e0c53e-65b5-4b49-a329-e163c5c47f99">
+
 
 
 
 ### New Sample Data Prediction
-<img width="797" alt="Screenshot 2023-08-21 at 11 37 13 AM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/0ac2f902-40b8-4e30-80b7-e770258fadcc">
+<img width="578" alt="Screenshot 2023-08-21 at 10 43 33 PM" src="https://github.com/KoduruSanathKumarReddy/basic-nn-model/assets/69503902/976c6961-a06a-4e78-8a2d-39bda6976306">
+
 
 
 
